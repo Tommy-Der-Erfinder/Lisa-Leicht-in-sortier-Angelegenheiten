@@ -34,7 +34,7 @@ Lisa ist besonders nützlich für:
 ## Projektstatus
 
 Lisa ist bereit zur Nutzung!  
-Weitere Updates (z.B. neue Funktionen oder Sprachen) sind geplant.  
+Weitere Updates/Themen und Fragen (z.B. neue Funktionen oder Sprachen) sind geplant.  
 Dein Feedback ist herzlich willkommen – schreibe uns gerne auf GitHub!
 
 ---
