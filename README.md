@@ -31,16 +31,6 @@ Lisa ist besonders nützlich für:
 
 ---
 
-## Installation
-
-```bash
-1. Lade die Dateien herunter (Download ZIP oder Git clone)
-2. Entpacke das Projekt
-3. Starte Lisa (keine zusätzliche Software nötig)
-```
-
----
-
 ## Projektstatus
 
 Lisa ist bereit zur Nutzung!  
